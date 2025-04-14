@@ -4,16 +4,10 @@
  */
 package com.mycompany.app_controlventas_msantosq.view;
 
-import javax.swing.SwingUtilities; 
-
 /**
  *
  * @author Milagritos Quintana
  */
-public class Main {
-    public static void main(String[] args) {
-        // Inicia el SplashScreen
-        SwingUtilities.invokeLater(SplashScreen::new);
-    }
-
+public class ComprobanteView {
+    
 }
